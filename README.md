@@ -181,39 +181,43 @@ Modern web platform currently under development.
 <td width="50%" valign="top">
 
 **Frontend Development**
-- React, Next.js, TypeScript
-- Tailwind CSS, responsive design
-- Component architecture, state management
-- Performance optimization
+
+React • Next.js • Vue.js • Nuxt.js • Alpine.js • JavaScript • Tailwind CSS • Ember.js
 
 </td>
 <td width="50%" valign="top">
 
 **Backend Development**
-- Node.js, Express, NestJS
-- RESTful APIs, GraphQL
-- Database design, authentication
-- API security, rate limiting
+
+JavaScript (Node.js) • TypeScript • Python • Java • C# • PHP • Ruby • Go (Golang) • Kotlin • Express.js • NestJS
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**DevOps & Tools**
-- Docker, containerization
-- CI/CD pipelines, GitHub Actions
-- Server management, cloud services
-- Monitoring, logging
+**Minecraft & Discord Development**
+
+Minecraft Server Development • Gradle / Maven • JDK • Discord Bots • APIs • Server Structure
 
 </td>
 <td width="50%" valign="top">
 
-**Development Practices**
-- Test-driven development
-- Code reviews, documentation
-- Agile methodologies
-- Version control, code quality
+**Database & Cache**
+
+MySQL • PostgreSQL • Supabase • MariaDB • MongoDB • Firebase • Redis • Prisma • SQLite • Oracle DB • Nedb
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**DevOps & Infrastructure**
+
+Cloud Services • Containers • CI/CD • Docker
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -240,3 +244,4 @@ Open to collaborations and interesting projects.
     Built with a <span style="color:#34D399;">mint</span>, <span style="color:#0EA5E9;">blue</span> & <span style="color:#020617;">black</span> theme.
   </sub>
 </div>
+

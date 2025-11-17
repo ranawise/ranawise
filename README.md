@@ -97,18 +97,75 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 
 ## Featured projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[`project-one`](https://github.com/ranawise/project-one)**  
-Full‑stack application with modern UI, built with Next.js, Node.js, and PostgreSQL.
+#### **Rana-Development-Discord-Moderation-Bot**
+Discord moderation bot with advanced features for server management.
 
-**[`project-two`](https://github.com/ranawise/project-two)**  
-Real‑time dashboard using WebSockets, TypeScript, and Tailwind CSS.
+[![GitHub](https://img.shields.io/badge/GitHub-View-020617?style=flat-square&logo=github&logoColor=34D399)](https://github.com/ranawise/Rana-Development-Discord-Moderation-Bot)
 
-**[`project-three`](https://github.com/ranawise/project-three)**  
-Production‑ready REST/GraphQL backend with authentication, validation, and testing.
+</td>
+<td width="50%" valign="top">
 
-</div>
+#### **Guilds-And-Territories**
+Minecraft plugin for guild and territory management systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-View-020617?style=flat-square&logo=github&logoColor=34D399)](https://github.com/ranawise/Guilds-And-Territories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### **Trading-post-plugin**
+Minecraft trading plugin for in-game commerce and economy.
+
+[![GitHub](https://img.shields.io/badge/GitHub-View-020617?style=flat-square&logo=github&logoColor=34D399)](https://github.com/ranawise/Trading-post-plugin)
+
+</td>
+<td width="50%" valign="top">
+
+#### **SMMRoku**
+Affordable SMM panel for social media growth and engagement services.
+
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://smmroku.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### **Spotigrade**
+Spotify upgrade service platform with API integration and reseller support.
+
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://spotigrade.net/)
+
+</td>
+<td width="50%" valign="top">
+
+#### **BuySEO24**
+SEO services platform for website optimization and traffic growth.
+
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://buyseo24.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### **1VPS.cc**
+VPS hosting and server management platform.
+
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://www.1vps.cc/)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -178,7 +178,7 @@ Modern web platform currently under development.
 
 <div align="center">
 
-<sub style="color:#34D399;font-size:16px;font-weight:bold;">Frontend Development</sub>
+#### <span style="color:#34D399;">Frontend Development</span>
 
 <br/>
 
@@ -193,7 +193,7 @@ Modern web platform currently under development.
 
 <br/><br/>
 
-<sub style="color:#34D399;font-size:16px;font-weight:bold;">Backend Development</sub>
+#### <span style="color:#34D399;">Backend Development</span>
 
 <br/>
 
@@ -211,7 +211,7 @@ Modern web platform currently under development.
 
 <br/><br/>
 
-<sub style="color:#34D399;font-size:16px;font-weight:bold;">Minecraft & Discord Development</sub>
+#### <span style="color:#34D399;">Minecraft & Discord Development</span>
 
 <br/>
 
@@ -224,7 +224,7 @@ Modern web platform currently under development.
 
 <br/><br/>
 
-<sub style="color:#34D399;font-size:16px;font-weight:bold;">Database & Cache</sub>
+#### <span style="color:#34D399;">Database & Cache</span>
 
 <br/>
 

@@ -84,29 +84,31 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 
 ## What I'm working on
 
-- 🚀 Building **production-ready full‑stack applications** with **Next.js 14+**, focusing on server components, optimized performance, and seamless user experiences.
-- 🔐 Developing **secure, scalable backend APIs** using **Node.js/Express/NestJS** with JWT authentication, rate limiting, and comprehensive error handling.
-- 🎨 Crafting **modern, responsive UIs** with **React**, **TypeScript**, and **Tailwind CSS** — emphasizing dark themes with mint and blue accents.
-- 🗄️ Working with **PostgreSQL** and **MongoDB** to design efficient database schemas and optimize query performance.
-- ⚡ Implementing **real-time features** using **WebSockets** and **Server-Sent Events** for live data updates and interactive dashboards.
-- 🧪 Writing **comprehensive tests** (unit, integration, E2E) to ensure code quality and maintainability.
-- 🔄 Setting up **CI/CD pipelines** with **GitHub Actions** and **Docker** for automated testing, building, and deployment.
-- 📚 Learning and experimenting with **GraphQL**, **microservices architecture**, and **cloud-native technologies**.  
+- Building **production-ready full‑stack applications** with **Next.js 14+**, focusing on server components, optimized performance, and seamless user experiences.
+- Developing **secure, scalable backend APIs** using **Node.js/Express/NestJS** with JWT authentication, rate limiting, and comprehensive error handling.
+- Crafting **modern, responsive UIs** with **React**, **TypeScript**, and **Tailwind CSS** — emphasizing dark themes with mint and blue accents.
+- Working with **PostgreSQL** and **MongoDB** to design efficient database schemas and optimize query performance.
+- Implementing **real-time features** using **WebSockets** and **Server-Sent Events** for live data updates and interactive dashboards.
+- Writing **comprehensive tests** (unit, integration, E2E) to ensure code quality and maintainability.
+- Setting up **CI/CD pipelines** with **GitHub Actions** and **Docker** for automated testing, building, and deployment.
+- Learning and experimenting with **GraphQL**, **microservices architecture**, and **cloud-native technologies**.  
 
 ---
 
 ## Featured projects
 
-> Replace these with your real repos and short, specific descriptions.
+<div align="center">
 
-- [`project-one`](https://github.com/ranawise/project-one)  
-  Full‑stack app with a mint/black/blue UI, built with **Next.js**, **Node.js**, and **PostgreSQL**.
+**[`project-one`](https://github.com/ranawise/project-one)**  
+Full‑stack application with modern UI, built with Next.js, Node.js, and PostgreSQL.
 
-- [`project-two`](https://github.com/ranawise/project-two)  
-  Real‑time dashboard using **WebSockets**, **TypeScript**, and **Tailwind CSS**.
+**[`project-two`](https://github.com/ranawise/project-two)**  
+Real‑time dashboard using WebSockets, TypeScript, and Tailwind CSS.
 
-- [`project-three`](https://github.com/ranawise/project-three)  
-  Production‑ready **REST/GraphQL** backend with auth, validation, and testing.
+**[`project-three`](https://github.com/ranawise/project-three)**  
+Production‑ready REST/GraphQL backend with authentication, validation, and testing.
+
+</div>
 
 ---
 
@@ -114,20 +116,17 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ranawise&show_icons=true&hide_border=true&bg_color=020617&title_color=34D399&text_color=E5E7EB&icon_color=0EA5E9"
-    alt="Rana's GitHub stats"
-    height="165"
-  />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranawise&layout=compact&hide_border=true&bg_color=020617&title_color=0EA5E9&text_color=E5E7EB"
-    alt="Top languages"
-    height="165"
-  />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ranawise&show_icons=true&hide_border=true&bg_color=020617&title_color=34D399&text_color=E5E7EB&icon_color=0EA5E9&hide_title=false&include_all_commits=true&count_private=true"
+  alt="GitHub stats"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranawise&layout=compact&hide_border=true&bg_color=020617&title_color=0EA5E9&text_color=E5E7EB&hide_title=false"
+  alt="Top languages"
+  height="180"
+/>
 
 </div>
 
@@ -135,11 +134,13 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 
 ## Get in touch
 
-- Portfolio: [ranaahmed.xyz](https://www.ranaahmed.xyz/)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile) <!-- TODO: replace -->
-- Email: `youremail@example.com` <!-- TODO: replace -->
+<div align="center">
 
-If you're working on something interesting or need help on the full‑stack side of a project, feel free to reach out.
+[Portfolio](https://www.ranaahmed.xyz/) • [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:youremail@example.com)
+
+Open to collaborations and interesting projects.
+
+</div>
 
 ---
 

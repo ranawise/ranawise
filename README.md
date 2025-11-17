@@ -1,9 +1,3 @@
-<!--
-   GitHub Profile README for @ranawise
-   Theme: Mint / Black / Blue
-   Tip: Put this file as README.md in the repo github.com/ranawise/ranawise
--->
-
 <!-- Banner -->
 <div align="center">
   <img

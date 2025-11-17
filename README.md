@@ -243,11 +243,5 @@ Cloud Services • Containers • CI/CD • Docker
 
 </div>
 
----
 
-<div align="center">
-  <sub style="color:#64748B;">
-    Built with a <span style="color:#34D399;">mint</span>, <span style="color:#0EA5E9;">blue</span> & <span style="color:#020617;">black</span> theme.
-  </sub>
-</div>
 

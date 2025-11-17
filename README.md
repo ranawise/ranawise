@@ -161,7 +161,12 @@ VPS hosting and server management platform.
 [![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://www.1vps.cc/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+#### **Skryft.io**
+Modern web platform currently under development.
+
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://skryft.io/)
 
 </td>
 </tr>
@@ -174,15 +179,31 @@ VPS hosting and server management platform.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ranawise&show_icons=true&hide_border=true&bg_color=020617&title_color=34D399&text_color=E5E7EB&icon_color=0EA5E9&hide_title=false&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=ranawise&show_icons=true&hide_border=true&bg_color=020617&title_color=34D399&text_color=E5E7EB&icon_color=0EA5E9&hide_title=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"
   alt="GitHub stats"
-  height="180"
+  height="195"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranawise&layout=compact&hide_border=true&bg_color=020617&title_color=0EA5E9&text_color=E5E7EB&hide_title=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranawise&layout=compact&hide_border=true&bg_color=020617&title_color=0EA5E9&text_color=E5E7EB&hide_title=false&langs_count=8"
   alt="Top languages"
-  height="180"
+  height="195"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.demolab.com/?user=ranawise&theme=dark&hide_border=true&background=020617&ring=34D399&fire=34D399&currStreakLabel=0EA5E9&sideLabels=E5E7EB&dates=64748B&sideNums=E5E7EB&currStreakNum=34D399"
+  alt="GitHub streak"
+  height="195"
+/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ranawise&theme=github-dark&hide_border=true&bg_color=020617&color=34D399&line=0EA5E9&point=34D399&area=true&area_color=34D399&title_color=E5E7EB"
+  alt="GitHub activity graph"
+  height="195"
 />
 
 </div>

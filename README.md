@@ -32,20 +32,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About me
 
-- 💼 **Full‑stack developer** focused on building **modern, maintainable, and scalable** web applications  
-- 🌐 Comfortable across the stack: **React / Next.js**, **Node.js / Express / Nest**, and **SQL / NoSQL**  
-- 🎨 I care about **UX, performance, and clean design** — especially in dark UI with mint & blue accents  
-- ⚙️ I enjoy:
-  - Designing **API-driven architectures**
-  - Writing **type-safe** and **tested** code
-  - Automating workflows with **CI/CD** and developer tooling  
-- 🚀 Always learning: cloud, best practices, and ways to ship better products faster  
+I'm a full‑stack developer who enjoys taking ideas from a rough sketch to a polished, production‑ready product.
+
+- I work across the stack with **React / Next.js**, **Node.js / Express / Nest**, and **SQL / NoSQL** databases.
+- I care a lot about **UX, performance, and clean design**, especially in dark UIs with mint and blue accents.
+- I like designing **API‑driven systems**, keeping code **type‑safe and tested**, and automating the boring parts with **CI/CD**.
+- I'm always learning new tools, patterns, and ways to ship better software with fewer surprises in production.
 
 ---
 
-## 🛠 Tech Stack
+## Tech stack
 
 <div align="center">
 
@@ -83,15 +81,15 @@
 
 ---
 
-## ⚡ What I’m Building
+## What I’m working on
 
-- ✨ **Full‑stack web apps** with clean UI and reusable component systems  
-- 📦 **API-centric backends** with authentication, logging, and testing baked in  
-- 🧱 **Developer infrastructure**: scripts, CI/CD pipelines, and tooling to move faster  
+- Building **full‑stack web apps** with a focus on clean UI, predictable state, and reusable components.  
+- Designing **API‑centric backends** with authentication, validation, logging, and monitoring from day one.  
+- Creating **developer tooling and automation** (scripts, CI/CD, templates) so shipping features feels smooth instead of painful.  
 
 ---
 
-## 🌟 Featured Projects
+## Featured projects
 
 > Replace these with your real repos and short, specific descriptions.
 
@@ -106,7 +104,7 @@
 
 ---
 
-## 📊 GitHub Overview
+## GitHub overview
 
 <div align="center">
 
@@ -129,13 +127,13 @@
 
 ---
 
-## 🤝 Let’s Connect
+## Get in touch
 
-- 🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) <!-- TODO: replace -->
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile) <!-- TODO: replace -->
-- 📧 Email: `youremail@example.com` <!-- TODO: replace -->
+- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) <!-- TODO: replace -->
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile) <!-- TODO: replace -->
+- Email: `youremail@example.com` <!-- TODO: replace -->
 
-If you’re working on something interesting or need help with a full‑stack project, feel free to reach out.
+If you're working on something interesting or need help on the full‑stack side of a project, feel free to reach out.
 
 ---
 

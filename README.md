@@ -174,39 +174,50 @@ Modern web platform currently under development.
 
 ---
 
-## GitHub overview
+## Skills & expertise
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ranawise&show_icons=true&hide_border=true&bg_color=020617&title_color=34D399&text_color=E5E7EB&icon_color=0EA5E9&hide_title=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"
-  alt="GitHub stats"
-  height="195"
-/>
+**Frontend Development**
+- React, Next.js, TypeScript
+- Tailwind CSS, responsive design
+- Component architecture, state management
+- Performance optimization
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranawise&layout=compact&hide_border=true&bg_color=020617&title_color=0EA5E9&text_color=E5E7EB&hide_title=false&langs_count=8"
-  alt="Top languages"
-  height="195"
-/>
+</td>
+<td width="50%" valign="top">
 
-</div>
+**Backend Development**
+- Node.js, Express, NestJS
+- RESTful APIs, GraphQL
+- Database design, authentication
+- API security, rate limiting
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img
-  src="https://github-readme-streak-stats.demolab.com/?user=ranawise&theme=dark&hide_border=true&background=020617&ring=34D399&fire=34D399&currStreakLabel=0EA5E9&sideLabels=E5E7EB&dates=64748B&sideNums=E5E7EB&currStreakNum=34D399"
-  alt="GitHub streak"
-  height="195"
-/>
+**DevOps & Tools**
+- Docker, containerization
+- CI/CD pipelines, GitHub Actions
+- Server management, cloud services
+- Monitoring, logging
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ranawise&theme=github-dark&hide_border=true&bg_color=020617&color=34D399&line=0EA5E9&point=34D399&area=true&area_color=34D399&title_color=E5E7EB"
-  alt="GitHub activity graph"
-  height="195"
-/>
+</td>
+<td width="50%" valign="top">
 
-</div>
+**Development Practices**
+- Test-driven development
+- Code reviews, documentation
+- Agile methodologies
+- Version control, code quality
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -214,7 +225,9 @@ Modern web platform currently under development.
 
 <div align="center">
 
-[Portfolio](https://www.ranaahmed.xyz/) • [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:youremail@example.com)
+[Portfolio](https://www.ranaahmed.xyz/) • [Discord Server](https://discord.gg/etNxAfPHbs) • [Instagram](https://instagram.com/ranawise_)
+
+Discord: `1139532286358978560`
 
 Open to collaborations and interesting projects.
 

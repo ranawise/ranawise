@@ -176,52 +176,82 @@ Modern web platform currently under development.
 
 ## Skills & expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**Frontend Development**
+<sub style="color:#34D399;font-size:16px;font-weight:bold;">Frontend Development</sub>
 
-React • Next.js • Vue.js • Nuxt.js • Alpine.js • JavaScript • Tailwind CSS • Ember.js
+<br/>
 
-</td>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Vue.js-020617?style=flat-square&logo=vue.js&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Nuxt.js-020617?style=flat-square&logo=nuxt.js&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Alpine.js-020617?style=flat-square&logo=alpine.js&logoColor=34D399" />
+<img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-020617?style=flat-square&logo=tailwindcss&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Ember.js-020617?style=flat-square&logo=ember.js&logoColor=34D399" />
 
-**Backend Development**
+<br/><br/>
 
-JavaScript (Node.js) • TypeScript • Python • Java • C# • PHP • Ruby • Go (Golang) • Kotlin • Express.js • NestJS
+<sub style="color:#34D399;font-size:16px;font-weight:bold;">Backend Development</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**Minecraft & Discord Development**
+<img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=34D399" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Java-020617?style=flat-square&logo=java&logoColor=34D399" />
+<img src="https://img.shields.io/badge/C%23-020617?style=flat-square&logo=c-sharp&logoColor=34D399" />
+<img src="https://img.shields.io/badge/PHP-020617?style=flat-square&logo=php&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Ruby-020617?style=flat-square&logo=ruby&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Go-020617?style=flat-square&logo=go&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Kotlin-020617?style=flat-square&logo=kotlin&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Express.js-020617?style=flat-square&logo=express&logoColor=34D399" />
+<img src="https://img.shields.io/badge/NestJS-020617?style=flat-square&logo=nestjs&logoColor=34D399" />
 
-Minecraft Server Development • Gradle / Maven • JDK • Discord Bots • APIs • Server Structure
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
+<sub style="color:#34D399;font-size:16px;font-weight:bold;">Minecraft & Discord Development</sub>
 
-**Database & Cache**
+<br/>
 
-MySQL • PostgreSQL • Supabase • MariaDB • MongoDB • Firebase • Redis • Prisma • SQLite • Oracle DB • Nedb
+<img src="https://img.shields.io/badge/Minecraft-020617?style=flat-square&logo=minecraft&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Gradle-020617?style=flat-square&logo=gradle&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Maven-020617?style=flat-square&logo=apache-maven&logoColor=34D399" />
+<img src="https://img.shields.io/badge/JDK-020617?style=flat-square&logo=java&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Discord_Bots-020617?style=flat-square&logo=discord&logoColor=34D399" />
+<img src="https://img.shields.io/badge/APIs-020617?style=flat-square&logoColor=34D399" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/><br/>
 
-**DevOps & Infrastructure**
+<sub style="color:#34D399;font-size:16px;font-weight:bold;">Database & Cache</sub>
 
-Cloud Services • Containers • CI/CD • Docker
+<br/>
 
-</td>
-<td width="50%">
+<img src="https://img.shields.io/badge/MySQL-020617?style=flat-square&logo=mysql&logoColor=34D399" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Supabase-020617?style=flat-square&logo=supabase&logoColor=34D399" />
+<img src="https://img.shields.io/badge/MariaDB-020617?style=flat-square&logo=mariadb&logoColor=34D399" />
+<img src="https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Firebase-020617?style=flat-square&logo=firebase&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Redis-020617?style=flat-square&logo=redis&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Prisma-020617?style=flat-square&logo=prisma&logoColor=34D399" />
+<img src="https://img.shields.io/badge/SQLite-020617?style=flat-square&logo=sqlite&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Oracle_DB-020617?style=flat-square&logo=oracle&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Nedb-020617?style=flat-square&logoColor=34D399" />
 
-</td>
-</tr>
-</table>
+<br/><br/>
+
+<sub style="color:#34D399;font-size:16px;font-weight:bold;">DevOps & Infrastructure</sub>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloud-020617?style=flat-square&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Containers-020617?style=flat-square&logo=docker&logoColor=34D399" />
+<img src="https://img.shields.io/badge/CI%2FCD-020617?style=flat-square&logo=github-actions&logoColor=34D399" />
+<img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=34D399" />
+
+</div>
 
 ---
 

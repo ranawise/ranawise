@@ -82,11 +82,16 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 
 ---
 
-## What I’m working on
+## What I'm working on
 
-- Building **full‑stack web apps** with a focus on clean UI, predictable state, and reusable components.  
-- Designing **API‑centric backends** with authentication, validation, logging, and monitoring from day one.  
-- Creating **developer tooling and automation** (scripts, CI/CD, templates) so shipping features feels smooth instead of painful.  
+- 🚀 Building **production-ready full‑stack applications** with **Next.js 14+**, focusing on server components, optimized performance, and seamless user experiences.
+- 🔐 Developing **secure, scalable backend APIs** using **Node.js/Express/NestJS** with JWT authentication, rate limiting, and comprehensive error handling.
+- 🎨 Crafting **modern, responsive UIs** with **React**, **TypeScript**, and **Tailwind CSS** — emphasizing dark themes with mint and blue accents.
+- 🗄️ Working with **PostgreSQL** and **MongoDB** to design efficient database schemas and optimize query performance.
+- ⚡ Implementing **real-time features** using **WebSockets** and **Server-Sent Events** for live data updates and interactive dashboards.
+- 🧪 Writing **comprehensive tests** (unit, integration, E2E) to ensure code quality and maintainability.
+- 🔄 Setting up **CI/CD pipelines** with **GitHub Actions** and **Docker** for automated testing, building, and deployment.
+- 📚 Learning and experimenting with **GraphQL**, **microservices architecture**, and **cloud-native technologies**.  
 
 ---
 

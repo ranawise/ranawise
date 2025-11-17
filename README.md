@@ -34,12 +34,11 @@
 
 ## About me
 
-I'm a full‑stack developer who enjoys taking ideas from a rough sketch to a polished, production‑ready product.
+I'm a full stack developer with a little over 5 years of experience building for the gaming world and the web. I've worked on everything from custom Minecraft plugins to mobile and web apps, and I've spent a lot of time setting up and managing gaming servers that can handle serious traffic without breaking a sweat.
 
-- I work across the stack with **React / Next.js**, **Node.js / Express / Nest**, and **SQL / NoSQL** databases.
-- I care a lot about **UX, performance, and clean design**, especially in dark UIs with mint and blue accents.
-- I like designing **API‑driven systems**, keeping code **type‑safe and tested**, and automating the boring parts with **CI/CD**.
-- I'm always learning new tools, patterns, and ways to ship better software with fewer surprises in production.
+I know my way around both frontend and backend development, so I can take an idea from concept to a fully working product. I've built tools for Discord communities, automated a ton of tasks for server admins, and created apps that make gaming communities run smoother and feel more connected.
+
+At the end of the day, I like making things that work fast, scale well, and actually make life easier for players and community managers.
 
 ---
 
@@ -101,16 +100,16 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 <tr>
 <td width="50%" valign="top">
 
-#### **Rana-Development-Discord-Moderation-Bot**
-Discord moderation bot with advanced features for server management.
+#### <span style="color:#34D399;">Rana-Development-Discord-Moderation-Bot</span>
+<sub style="color:#E5E7EB;">Discord moderation bot with advanced features for server management.</sub>
 
 [![GitHub](https://img.shields.io/badge/GitHub-View-020617?style=flat-square&logo=github&logoColor=34D399)](https://github.com/ranawise/Rana-Development-Discord-Moderation-Bot)
 
 </td>
 <td width="50%" valign="top">
 
-#### **Guilds-And-Territories**
-Minecraft plugin for guild and territory management systems.
+#### <span style="color:#34D399;">Guilds-And-Territories</span>
+<sub style="color:#E5E7EB;">Minecraft plugin for guild and territory management systems.</sub>
 
 [![GitHub](https://img.shields.io/badge/GitHub-View-020617?style=flat-square&logo=github&logoColor=34D399)](https://github.com/ranawise/Guilds-And-Territories)
 
@@ -119,54 +118,54 @@ Minecraft plugin for guild and territory management systems.
 <tr>
 <td width="50%" valign="top">
 
-#### **Trading-post-plugin**
-Minecraft trading plugin for in-game commerce and economy.
+#### <span style="color:#34D399;">Trading-post-plugin</span>
+<sub style="color:#E5E7EB;">Minecraft trading plugin for in-game commerce and economy.</sub>
 
 [![GitHub](https://img.shields.io/badge/GitHub-View-020617?style=flat-square&logo=github&logoColor=34D399)](https://github.com/ranawise/Trading-post-plugin)
 
 </td>
 <td width="50%" valign="top">
 
-#### **SMMRoku**
-Affordable SMM panel for social media growth and engagement services.
+#### <span style="color:#34D399;">SMMRoku</span>
+<sub style="color:#E5E7EB;">Affordable SMM panel for social media growth and engagement services.</sub>
 
-[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://smmroku.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### **Spotigrade**
-Spotify upgrade service platform with API integration and reseller support.
-
-[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://spotigrade.net/)
-
-</td>
-<td width="50%" valign="top">
-
-#### **BuySEO24**
-SEO services platform for website optimization and traffic growth.
-
-[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://buyseo24.com/)
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=34D399)](https://smmroku.com/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### **1VPS.cc**
-VPS hosting and server management platform.
+#### <span style="color:#34D399;">Spotigrade</span>
+<sub style="color:#E5E7EB;">Spotify upgrade service platform with API integration and reseller support.</sub>
 
-[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://www.1vps.cc/)
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=34D399)](https://spotigrade.net/)
 
 </td>
 <td width="50%" valign="top">
 
-#### **Skryft.io**
-Modern web platform currently under development.
+#### <span style="color:#34D399;">BuySEO24</span>
+<sub style="color:#E5E7EB;">SEO services platform for website optimization and traffic growth.</sub>
 
-[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=0EA5E9)](https://skryft.io/)
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=34D399)](https://buyseo24.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <span style="color:#34D399;">1VPS.cc</span>
+<sub style="color:#E5E7EB;">VPS hosting and server management platform.</sub>
+
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=34D399)](https://www.1vps.cc/)
+
+</td>
+<td width="50%" valign="top">
+
+#### <span style="color:#34D399;">Skryft.io</span>
+<sub style="color:#E5E7EB;">Modern web platform currently under development.</sub>
+
+[![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=34D399)](https://skryft.io/)
 
 </td>
 </tr>
@@ -242,7 +241,7 @@ Modern web platform currently under development.
 
 <br/><br/>
 
-<sub style="color:#34D399;font-size:16px;font-weight:bold;">DevOps & Infrastructure</sub>
+#### <span style="color:#34D399;">DevOps & Infrastructure</span>
 
 <br/>
 

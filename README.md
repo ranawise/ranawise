@@ -229,11 +229,17 @@ Cloud Services • Containers • CI/CD • Docker
 
 <div align="center">
 
-[Portfolio](https://www.ranaahmed.xyz/) • [Discord Server](https://discord.gg/etNxAfPHbs) • [Instagram](https://instagram.com/ranawise_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-020617?style=for-the-badge&logoColor=34D399&color=34D399)](https://www.ranaahmed.xyz/)
+[![Discord Server](https://img.shields.io/badge/Discord-Join-020617?style=for-the-badge&logo=discord&logoColor=34D399&color=34D399)](https://discord.gg/etNxAfPHbs)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-020617?style=for-the-badge&logo=instagram&logoColor=34D399&color=34D399)](https://instagram.com/ranawise_)
 
-Discord: `1139532286358978560`
+<br/>
 
-Open to collaborations and interesting projects.
+<sub style="color:#64748B;">Discord ID: <code style="color:#34D399;background:#020617;padding:2px 6px;border-radius:3px;">1139532286358978560</code></sub>
+
+<br/>
+
+<sub style="color:#E5E7EB;">Open to collaborations and interesting projects.</sub>
 
 </div>
 

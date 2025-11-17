@@ -26,7 +26,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ranawise?label=Follow&style=for-the-badge&color=0EA5E9&labelColor=020617)](https://github.com/ranawise)
 [![Profile Views](https://komarev.com/ghpvc/?username=ranawise&label=Profile%20Views&color=34D399&style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logoColor=white&color=34D399)](https://your-portfolio-link.com) <!-- TODO: replace with your real portfolio -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logoColor=white&color=34D399)](https://www.ranaahmed.xyz/)
 
 </div>
 
@@ -45,15 +45,16 @@ I'm a full‑stack developer who enjoys taking ideas from a rough sketch to a po
 
 ## Tech stack
 
+Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js**, **React**, and **Tailwind CSS** on the frontend and **Node.js** APIs on the backend.
+
 <div align="center">
 
-### 🌈 Core
+**Languages**
 
 <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=FACC15" />
 <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=0EA5E9" />
-<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=34D399" />
 
-### 🎨 Frontend
+**Frontend**
 
 <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=38BDF8" />
 <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
@@ -61,16 +62,16 @@ I'm a full‑stack developer who enjoys taking ideas from a rough sketch to a po
 <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=F97316" />
 <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=0EA5E9" />
 
-### 🧩 Backend & Data
+**Backend & data**
 
+<img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=34D399" />
 <img src="https://img.shields.io/badge/Express.js-020617?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/NestJS-020617?style=for-the-badge&logo=nestjs&logoColor=EF4444" />
 <img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=0EA5E9" />
 <img src="https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=34D399" />
-<img src="https://img.shields.io/badge/REST-020617?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/REST_API-020617?style=for-the-badge&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/GraphQL-020617?style=for-the-badge&logo=graphql&logoColor=EC4899" />
 
-### 🧪 DevOps & Tools
+**DevOps & tools**
 
 <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" />
 <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=0EA5E9" />
@@ -129,7 +130,7 @@ I'm a full‑stack developer who enjoys taking ideas from a rough sketch to a po
 
 ## Get in touch
 
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) <!-- TODO: replace -->
+- Portfolio: [ranaahmed.xyz](https://www.ranaahmed.xyz/)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile) <!-- TODO: replace -->
 - Email: `youremail@example.com` <!-- TODO: replace -->
 

@@ -98,7 +98,7 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#064E3B;padding:15px;border-radius:8px;border:1px solid #34D399;">
 
 #### <span style="color:#34D399;">Rana-Development-Discord-Moderation-Bot</span>
 <sub style="color:#E5E7EB;">Discord moderation bot with advanced features for server management.</sub>
@@ -106,7 +106,7 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 [![GitHub](https://img.shields.io/badge/GitHub-View-020617?style=flat-square&logo=github&logoColor=34D399)](https://github.com/ranawise/Rana-Development-Discord-Moderation-Bot)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#064E3B;padding:15px;border-radius:8px;border:1px solid #34D399;">
 
 #### <span style="color:#34D399;">Guilds-And-Territories</span>
 <sub style="color:#E5E7EB;">Minecraft plugin for guild and territory management systems.</sub>
@@ -116,7 +116,7 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#064E3B;padding:15px;border-radius:8px;border:1px solid #34D399;">
 
 #### <span style="color:#34D399;">Trading-post-plugin</span>
 <sub style="color:#E5E7EB;">Minecraft trading plugin for in-game commerce and economy.</sub>
@@ -124,7 +124,7 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 [![GitHub](https://img.shields.io/badge/GitHub-View-020617?style=flat-square&logo=github&logoColor=34D399)](https://github.com/ranawise/Trading-post-plugin)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#064E3B;padding:15px;border-radius:8px;border:1px solid #34D399;">
 
 #### <span style="color:#34D399;">SMMRoku</span>
 <sub style="color:#E5E7EB;">Affordable SMM panel for social media growth and engagement services.</sub>
@@ -134,7 +134,7 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#064E3B;padding:15px;border-radius:8px;border:1px solid #34D399;">
 
 #### <span style="color:#34D399;">Spotigrade</span>
 <sub style="color:#E5E7EB;">Spotify upgrade service platform with API integration and reseller support.</sub>
@@ -142,7 +142,7 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 [![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=34D399)](https://spotigrade.net/)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#064E3B;padding:15px;border-radius:8px;border:1px solid #34D399;">
 
 #### <span style="color:#34D399;">BuySEO24</span>
 <sub style="color:#E5E7EB;">SEO services platform for website optimization and traffic growth.</sub>
@@ -152,7 +152,7 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#064E3B;padding:15px;border-radius:8px;border:1px solid #34D399;">
 
 #### <span style="color:#34D399;">1VPS.cc</span>
 <sub style="color:#E5E7EB;">VPS hosting and server management platform.</sub>
@@ -160,7 +160,7 @@ Day to day I work mostly in the JavaScript/TypeScript ecosystem, with **Next.js*
 [![Website](https://img.shields.io/badge/Website-Visit-020617?style=flat-square&logoColor=34D399)](https://www.1vps.cc/)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#064E3B;padding:15px;border-radius:8px;border:1px solid #34D399;">
 
 #### <span style="color:#34D399;">Skryft.io</span>
 <sub style="color:#E5E7EB;">Modern web platform currently under development.</sub>

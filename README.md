@@ -20,7 +20,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ranawise?label=Follow&style=for-the-badge&color=0EA5E9&labelColor=020617)](https://github.com/ranawise)
 [![Profile Views](https://komarev.com/ghpvc/?username=ranawise&label=Profile%20Views&color=34D399&style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logoColor=white&color=34D399)](https://www.ranaahmed.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logoColor=white&color=34D399)](https://www.ranawise.com/)
 
 </div>
 

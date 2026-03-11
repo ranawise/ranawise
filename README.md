@@ -210,7 +210,7 @@ At the end of the day, I like making things that work fast, scale well, and actu
 
 <br/>
 
-<sub style="color:#E5E7EB;">Open to collaborations and interesting projects.</sub>
+<sub style="color:#E5E7EB;">Open to collaborations and interesting projects..</sub>
 
 </div>
 
